@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/josialexa/node-1-afternoon/issues"
   },
-  "homepage": "https://github.com/josialexa/node-1-afternoon#readme"
+  "homepage": "https://github.com/josialexa/node-1-afternoon#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
